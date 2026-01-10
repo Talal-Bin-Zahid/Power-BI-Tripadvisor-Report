@@ -7,6 +7,8 @@ TripAdvisor Report | User Demographics, Hotel Performance & Seasonal Trends Anal
 
 This Power BI dashboard analyzes TripAdvisor user data to uncover insights into traveler demographics, hotel performance, capacity distribution, and seasonal travel behavior. The report is designed to help hospitality stakeholders understand customer segments, identify top-performing hotels, and optimize strategies based on demand patterns.
 
+ ---
+
 📊 Key Metrics & Insights
 👥 User Demographics
 
@@ -36,6 +38,8 @@ Business: 74 users
 
 Solo: 24 users
 
+ ---
+ 
 ⭐ Hotel Ratings & Performance
 
 Hotels by Star Rating
@@ -50,6 +54,8 @@ Hotels by Star Rating
 
 1-Star Hotels: 1
 
+ ---
+ 
 Top 10 Hotels by Score
 
 Wynn Las Vegas: ⭐ 4.63 (highest rated)
@@ -72,6 +78,8 @@ Bellagio Las Vegas: 4.21
 
 Tuscany Las Vegas: 4.21
 
+ ---
+
 📅 Seasonality Trends
 
 Users by Period of Stay
@@ -83,6 +91,8 @@ Jun–Aug: 25%
 Sep–Nov: 25%
 
 Dec–Feb: 24.6%
+
+ ---
 
 📌 User stays are evenly distributed across seasons, indicating consistent year-round travel demand.
 
@@ -110,6 +120,8 @@ Treasure Island: 2.92K
 
 Circus Circus: 2.88K
 
+ ---
+
 📈 Visualizations Used
 
 Bar Charts
@@ -123,6 +135,8 @@ Show hotel star distribution to highlight quality segmentation.
 
 Each visualization is interactive, allowing users to quickly compare categories and identify trends.
 
+ ---
+
 🛠️ Technical Stack
 
 Power BI Desktop – Data modeling, visualization, and report creation
@@ -130,6 +144,8 @@ Power BI Desktop – Data modeling, visualization, and report creation
 Power Query – Data extraction, cleaning, and transformation (ETL)
 
 DAX (Data Analysis Expressions) – Calculated measures and aggregations
+
+---
 
 📌 Conclusions & Business Value
 
@@ -142,3 +158,5 @@ North America dominates the user base, making it a key target market.
 High-capacity hotels like The Venetian play a major role in accommodating demand.
 
 Even seasonal distribution suggests opportunities for consistent pricing and year-round promotions.
+
+---
